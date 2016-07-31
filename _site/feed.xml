@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singularity Markets</title>
+    <description>My thoughts on markets, current events and other investment themes.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Jul 2016 16:03:28 -0400</pubDate>
+    <lastBuildDate>Sun, 31 Jul 2016 16:03:28 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;Welcome to my blog. I’m mostly using this site as a way for me to organize my own thoughts and investmenet analysis. I most likely will use it to organize any thoughts I have on discussions that I have been having recently. Writing often forces one to present one’s thoughts in a way that simple debate does not. It is a medium in which we can go back and review past performance, and it is a medium in which one can not hand wave away the details as easily. Hopefully this will be an educational exercise for both myself and any readers who may stumble upon this site over time.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to comment or email me about my thoughts. I’m always open to debate and criticism. 
+&lt;!-- more --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/first-post</link>
+        <guid isPermaLink="true">/first-post</guid>
+        
+        <category>goals</category>
+        
+        
+        <category>goals</category>
+        
+      </item>
+    
+  </channel>
+</rss>
