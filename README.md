@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [Air Raya Group](http://webdesign.airrayagroup.com/)
 
 [Sci blog](http://sciblog.yourfreebies.org/) is jekyll theme created by [Air Raya Group](http://webdesign.airrayagroup.com/).
@@ -51,4 +50,3 @@ Copyright 2015 AIR RAYA GROUP. The work is licenced under MIT[](https://github.c
 =======
 # TheMizuhara.github.io
 Personal Website
->>>>>>> fd28e6c6034c3af088a445d141ee32e888830568
